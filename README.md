@@ -41,6 +41,9 @@
    - git remote add origin https://github.com/lailahgrant/online-pdf-reader.git
    - git push -u origin master
 
+> Make sure your root file is index.html if you're likely to deploy a site on Netlify to avoid "Page Not Found" ish 
+> Reference https://community.netlify.com/t/support-guide-i-ve-deployed-my-site-but-i-still-see-page-not-found/125?utm_source=404page&utm_campaign=community_tracking
+
 > That's it... thanks for your time
 
 > #  Enjoy...
