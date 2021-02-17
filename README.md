@@ -28,5 +28,19 @@
 
 > NB: The number of pages of your PDF can be set or changed in the main.html on line 182....
 
+#### How to add your local project to github
+- web-based Github
+  -create a new repository on the web-based Github (+ New Repository)
+  - set a meaningful repository name 
+  - don't create a README.md file
+  - then create the repository...
+- Terminal (vsCode terminal)
+   - git init
+   - git add .
+   - git commit -m "meaningful message"
+   - git remote add origin https://github.com/lailahgrant/online-pdf-reader.git
+   - git push -u origin master
+
+> That's it... thanks for your time
 
 > #  Enjoy...
