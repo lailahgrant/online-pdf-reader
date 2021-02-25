@@ -55,7 +55,21 @@
 ` the netlify link https://lugard-daycare-online-book-reader.netlify.app/ takes alot of time to load  and after minutes of googling, figured I overloaded the repo with many images yet GitHub works best with only code in texts`
 
 > Solution to this is https://docs.netlify.com/large-media/overview/ and it is what I'm going to try out today....!!
-> 
+
+> After setting up my Netlify CLI, now onto setting up the Large Media https://docs.netlify.com/large-media/setup/
+
+> # I'm completely using the documentation - no magic....
+
+> In my local project linked to the repo - I likn it with Netlify cli 
+- login in if I haven't already
+  E:\lugard > netlify login
+- netlify link - to link the local repo with the repo on Github and Netlify
+- Run the following command for Large media
+  `  netlify lm:setup `
+
+  > This command will do the following: 
+  - Enable the Large Media add-on for your Netlify site.
+  - Configure Git LFS to use the Netlify Large Media service.
 
 
 
