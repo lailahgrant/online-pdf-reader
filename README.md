@@ -51,6 +51,14 @@
 > Make sure your root file is index.html if you're likely to deploy a site on Netlify to avoid "Page Not Found" ish 
 > Reference https://community.netlify.com/t/support-guide-i-ve-deployed-my-site-but-i-still-see-page-not-found/125?utm_source=404page&utm_campaign=community_tracking
 
+### Thur 25th Feb 2021 
+` the netlify link https://lugard-daycare-online-book-reader.netlify.app/ takes alot of time to load  and after minutes of googling, figured I overloaded the repo with many images yet GitHub works best with only code in texts`
+
+> Solution to this is https://docs.netlify.com/large-media/overview/ and it is what I'm going to try out today....!!
+> 
+
+
+
 > That's it... thanks for your time
 
 > #  Enjoy...
