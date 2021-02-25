@@ -71,7 +71,22 @@
   - Enable the Large Media add-on for your Netlify site.
   - Configure Git LFS to use the Netlify Large Media service.
 
+> After this,
+> - git add .
+> - git commit -m "meaningful message"
+> - git push
+>  - -> this push command failed, popped up an authentication, clicked it, authourized VSCode to my github and it worked.
 
+#### Configure file tracking
+> - Specify which files you would like to track with Large Media by using the `git lfs track` command
+
+> - git lfs track "dog.jpg" "cat.gif" or
+> - git lfs track "static/pdfs/**" or   
+> - git lfs track "*.jpg" "*.png" 
+
+> You can combine different types of patterns in a single command, or run the command multiple times.
+
+> Commit your changes. When you run the git lfs track command, Git saves your tracking configuration in a `.gitattributes`  file.
 
 > That's it... thanks for your time
 
