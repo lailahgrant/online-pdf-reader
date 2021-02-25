@@ -24,7 +24,7 @@
 
 `  So far  so good, this is my 2nd time doing this and this time it is much easier actually. `
 
-> The netlify link to this project  is 
+> The netlify link to this project  is  https://lugard-daycare-online-book-reader.netlify.app/
 
 > NB: The number of pages of your PDF can be set or changed in the main.html on line 182....
 
