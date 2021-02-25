@@ -91,6 +91,11 @@
 > `git add .`  `git commit -m ""` worked but `git push ` failed and it returned error of `git: 'credential-netlify' is not a git command. See 'git --help'.` and a popup of username and password but after putting the github credential it still refused.
 
 
+> set the environment variables, restarted my machine and it worked https://user-images.githubusercontent.com/28113644/109144658-80741380-7772-11eb-8be9-65ffc096a83c.png
+
+> for more on how I solved the last error on push, here's the link https://github.com/netlify/netlify-credential-helper/issues/35#issuecomment-785814007
+
+
 
 > That's it... thanks for your time
 
