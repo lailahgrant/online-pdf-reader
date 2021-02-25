@@ -88,6 +88,10 @@
 
 > Commit your changes. When you run the git lfs track command, Git saves your tracking configuration in a `.gitattributes`  file.
 
+> `git add .`  `git commit -m ""` worked but `git push ` failed and it returned error of `git: 'credential-netlify' is not a git command. See 'git --help'.` and a popup of username and password but after putting the github credential it still refused.
+
+
+
 > That's it... thanks for your time
 
 > #  Enjoy...
